@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+    // Exercídio de fixação da condição se, senao se, senao
     real peso
     escreva("Digite o peso do atleta: ")
     leia(peso)
